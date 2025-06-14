@@ -34,7 +34,7 @@ TIC_TAC_TOE/
 
 - **HTML5** – For creating the structure
 - **CSS3** – For styling the UI
-- **JavaScript (ES6)** – For game logic
+- **JavaScript** – For game logic
 
 ---
 
